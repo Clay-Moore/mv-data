@@ -1,4 +1,10 @@
 {
 	"postTitle": "Title",
-	"postText": "\n"
+	"postText": "\n",
+	"blogEntry": [
+		{
+			"postTitle": "Title 1",
+			"postText": "Test Post"
+		}
+	]
 }
