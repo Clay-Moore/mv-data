@@ -5,6 +5,10 @@
 		{
 			"postTitle": "Title 1",
 			"postText": "Test Post"
+		},
+		{
+			"postTitle": "Title 2",
+			"postText": "<p>test post 2</p>"
 		}
 	]
 }
