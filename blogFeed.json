@@ -4,7 +4,7 @@
 	"blogEntry": [
 		{
 			"postTitle": "Title 1",
-			"postText": "Test Post"
+			"postText": "<p>Test Post</p>"
 		},
 		{
 			"postTitle": "Title 2",
