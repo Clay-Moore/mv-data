@@ -4,7 +4,7 @@
 	"blogEntry": [
 		{
 			"postTitle": "Title 1",
-			"postText": "<p><span style=\"caret-color: #7b8898; color: #7b8898; font-family: 'Mercury SSm A', 'Mercury SSm B', Georgia, Times, 'Times New Roman', 'Microsoft YaHei New', 'Microsoft Yahei', 微软雅黑, 宋体, SimSun, STXihei, 华文细黑, serif; font-size: 26px; text-align: start; text-size-adjust: auto; background-color: #556271;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>"
+			"postText": "<p style=\"text-align: center;\"><span style=\"caret-color: #7b8898; color: #7b8898; font-family: 'Mercury SSm A', 'Mercury SSm B', Georgia, Times, 'Times New Roman', 'Microsoft YaHei New', 'Microsoft Yahei', 微软雅黑, 宋体, SimSun, STXihei, 华文细黑, serif; font-size: 26px; text-align: start; text-size-adjust: auto; background-color: #556271;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>"
 		},
 		{
 			"postTitle": "Title 2",
