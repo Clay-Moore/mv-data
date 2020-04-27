@@ -9,6 +9,10 @@
 		{
 			"postTitle": "Title 2",
 			"postText": "<p>test post 2</p>"
+		},
+		{
+			"postTitle": "Title 3",
+			"postText": "<p>Test Post 3</p>"
 		}
 	]
 }
